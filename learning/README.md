@@ -1,3 +1,6 @@
+### Learning Process
+
+
 ### Q.1) What is the Feynman Technique?
 
 The Feynman Technique involves explaining a concept simply to someone else to improve understanding. It helps identify knowledge gaps, forces deep thinking, and enhances communication.
